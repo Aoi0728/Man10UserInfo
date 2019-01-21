@@ -1,3 +1,3 @@
 Man10UserInfo
 
-/mui
+My first plugin
