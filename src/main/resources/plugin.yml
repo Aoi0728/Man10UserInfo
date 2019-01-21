@@ -1,0 +1,7 @@
+name: Man10UserInfo
+version: ${project.version}
+main: red.man10.man10userinfo.Man10UserInfo
+commands:
+    man10userinfo:
+        description: mui main command.
+        aliases: [mui, man10checkuser, mcu]
